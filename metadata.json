@@ -1,0 +1,6 @@
+{
+  "name": "Vitória & Kauã — Convite de Casamento Digital & RSVP",
+  "description": "Site de convite de casamento digital mobile-first de Vitória & Kauã com envelope animado, RSVP, painel dos noivos, álbum por QR Code e manual dos padrinhos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
